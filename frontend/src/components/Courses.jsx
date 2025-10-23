@@ -155,7 +155,7 @@ function Courses() {
                 className="flex items-center p-2 rounded hover:bg-blue-600 transition"
               >
                 <FaDownload className="mr-3 text-lg" />
-                Purchases
+                My Courses
               </Link>
             </li>
             <li>

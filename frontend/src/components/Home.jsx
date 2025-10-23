@@ -121,11 +121,9 @@ function Home() {
               <h3 className="text-lg font-semibold mt-4 text-gray-800">{course.title}</h3>
               <div className="text-sm text-green-500 mt-1">Beginner • Self-paced</div>
               
-              <Link to={"/signup"}>
-                <button className="mt-4 bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 text-sm">
-                  Enroll Now
-                </button>
-              </Link>
+              <button className="mt-4 bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 text-sm">
+                Enroll Now
+              </button>
               
             </div>
           ))}

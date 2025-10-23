@@ -149,7 +149,7 @@ function Settings() {
                 className="flex items-center p-2 rounded hover:bg-blue-600 transition"
               >
                 <FaDownload className="mr-3 text-lg" />
-                Purchases
+                My Courses
               </Link>
             </li>
             <li>
@@ -190,7 +190,7 @@ function Settings() {
 
       {/* Main Content */}
       <main className="flex-1 px-6 py-10">
-        <h1 className="text-2xl sm:text-3xl font-bold text-blue-700 pl-2 mb-8">Account Settings</h1>
+        <h1 className="text-2xl sm:text-3xl font-bold text-blue-700 pl-4 mb-8">Account Settings</h1>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {/* Update Profile Info */}

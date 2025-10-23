@@ -1,1 +1,1 @@
-export const Backend_Url = "http://localhost:4000/api/v1";
+export const Backend_Url = "https://skillbloom-e-learning-platform.onrender.com";

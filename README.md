@@ -29,7 +29,7 @@ It provides an interactive environment for learners to browse, search, and purch
 
 ## 🧩 Tech Stack
 
-| Layer            | Technology                                                               |
+| Layer            | Technology                                                                |
 |------------------|---------------------------------------------------------------------------|
 | 🎨 Frontend      | React.js, Tailwind CSS, Axios, React Router, React Icons                  |
 | ⚙️ Backend       | Node.js, Express.js, MongoDB (Mongoose), JWT Authentication               |
@@ -138,11 +138,11 @@ Add this file inside the frontend folder for single-page routing (vercel.json):
 
 ## 🌍 Deployment
 
-Component |	 Platform       |
-----------|-----------------|
-Frontend  |  Vercel         |
-Backend   |  Render         |
-Database  |  MongoDB Atlas  |
+| Component  |	 Platform      |
+|------------|-----------------|
+| Frontend   |  Vercel         |
+| Backend    |  Render         |
+| Database   |  MongoDB Atlas  |
 
 Example URLs
 
@@ -151,11 +151,11 @@ Example URLs
 
 ## 🧭 Future Enhancements
 
-💳 Integrate payment gateway (Razorpay / Stripe)
-🧠 AI-based course recommendations
-⭐ Ratings & reviews for courses
-📊 Admin analytics dashboard
-📞 OTP / Email verification system
+- 💳 Integrate payment gateway (Razorpay / Stripe)
+- 🧠 AI-based course recommendations
+- ⭐ Ratings & reviews for courses
+- 📊 Admin analytics dashboard
+- 📞 OTP / Email verification system
 
 ## 👩 Author
 
